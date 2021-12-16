@@ -10,4 +10,4 @@ This plugin was written and published by LDN_Future. The plugin is accessible to
 
 This Plugin includes the following commands:
 
-/delwarp <Warp Name>; /setwarp <Warp Name>; /setwarppermission <Warp Name> <Permission>; /warp <Warp Name>; /warps
+/delwarp; /setwarp; /setwarppermission; /warp; /warps
